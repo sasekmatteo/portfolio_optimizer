@@ -120,7 +120,7 @@ This visualization helps us analyze how constraint logic affects specific invest
 
 Feel free to reach out:
 
-[LinkedIn](https://www.linkedin.com/matteo-sasek-martins/)
+[LinkedIn](www.linkedin.com/in/matteo-sasek-martins)
 
 [GitHub](https://github.com/sasekmatteo)
 
