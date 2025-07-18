@@ -1,6 +1,6 @@
 # Smart Portfolio Optimizer
 
-A Python-based tool designed to explore how real-world constraints affect portfolio performance, diversification, and risk exposure. Using historical data from 20 diversified assets, including stocks, ETFs, crypto, and commodities. the optimizer runs thousands of Monte Carlo simulations to evaluate each portfolio’s **expected return**, **volatility**, and **Sharpe ratio**.
+A Python-based tool designed to explore how real-world constraints affect portfolio performance, diversification, and risk exposure. Using historical data from 20 diversified assets based on 5 years of historical data (2019–2024), including stocks, ETFs, crypto, and commodities, the optimizer runs thousands of Monte Carlo simulations to evaluate each portfolio’s **expected return**, **volatility**, and **Sharpe ratio**.
 
 The goal was to explore a core question in portfolio management:  
 **How do constraints like sector caps or asset limits shape investment outcomes compared to purely performance-driven strategies?**  
