@@ -11,9 +11,9 @@ This tool simulates that trade-off across three strategies: **unconstrained**, *
 ## Key insights:
 - **Unconstrained portfolios** lean heavily into **Technology and Alternatives**, chasing past returns at the cost of higher volatility.
 - **Conservative portfolios** result in more balanced allocations, with stricter caps forcing exposure to underweighted sectors like **Consumer** and **Healthcare**.
-- The **aggressive strategy** finds a middle ground — still favoring high-return sectors, but maintaining diversification.
+- The **aggressive strategy** finds a middle ground, still favoring high-return sectors, but maintaining diversification.
 
-These results highlight how constraint-aware optimization can lead to better risk-adjusted outcomes depending on an investor’s objective — whether that's maximizing growth, managing downside risk, or meeting policy requirements.
+These results highlight how constraint-aware optimization can lead to better risk-adjusted outcomes depending on an investor’s objective, whether that's maximizing growth, managing downside risk, or meeting policy requirements.
 
 ---
 
